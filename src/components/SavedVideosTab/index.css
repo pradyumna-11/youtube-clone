@@ -1,0 +1,17 @@
+.trendingIcon {
+  padding: 20px;
+  border-radius: 34px;
+  background-color: #d7dfe9;
+  color: #ff0000;
+  height: 70px;
+  width: 70px;
+}
+
+.trendingIconDark {
+  padding: 20px;
+  border-radius: 34px;
+  background-color: #000000;
+  color: #ff0000;
+  height: 70px;
+  width: 70px;
+}
